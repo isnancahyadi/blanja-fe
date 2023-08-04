@@ -24,7 +24,7 @@ The Blanja project is built using the following technologies:
 ## Project Repository 📂🔗
 
 The backend repository for this project can be found on GitHub at the following link:
-[Blanja Backend Repository](https://github.com/IrhamNfrnda/blanja-be)
+[Blanja Backend Repository](https://github.com/isnancahyadi/blanja-be)
 
 ## Features ✨🛍️👕👖
 
@@ -76,16 +76,22 @@ The backend repository for this project can be found on GitHub at the following 
   </tr>
 </table>
 
-## Getting Started 🏁🚀
+## Installation 🏁🚀
 
-To set up the Blanja project locally, follow these steps:
+1. Clone this repository to your local machine:
 
-1. Clone the repository from the provided link.
-2. Install the required dependencies using npm.
-3. Set up your database and update the configuration accordingly.
-4. Ensure you have Node.js and npm installed on your system.
-5. Start the development server using the command `npm start`.
-6. Access the project through your preferred web browser.
+```bash
+git clone https://github.com/isnancahyadi/blanja-fe.git
+cd blanja-fe
+```
+
+2. Install the required dependencies using npm or yarn:
+
+```bash
+npm install
+# or
+yarn install
+```
 
 ## Contributions 🤝🌟
 
@@ -97,7 +103,18 @@ As the specific licensing information for "Blanja" may vary based on the project
 
 ## Contact 📞📧
 
-If you have any questions or inquiries regarding this project, feel free to contact me at [irhamnfrnda@gmail.com](mailto:irhamnfrnda@gmail.com).
+For more information about this project or have any question or need help for development, feel free to contact me.
+
+Isnan Arif Cahyadi
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/isnanarifcahyadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:isnan.arifc@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
